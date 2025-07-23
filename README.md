@@ -54,5 +54,5 @@
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/yourusername/think-space](https://github.com/SubodhYadao/Think-Space).git
+git clone (https://github.com/SubodhYadao/Think-Space.git)
 cd Think-Space
